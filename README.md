@@ -10,7 +10,7 @@ Supported in Python 3.6
 
 # Sample Run
 1. Download ZIP file for the repository/Clone the repository. Open the .py file in IDLE.
-2. A text file "encrypted_file.txt" which is created in line 140 (most probably on desktop). Paste its path within ' ' in the function named open on line 42.
+2. A text file "encrypted_file.txt" which is created in line 140 (most probably on desktop). Paste its path within ' ' in the function named open in line 42.
 3. Save and Run it.
 
 

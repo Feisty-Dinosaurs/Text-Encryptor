@@ -39,7 +39,7 @@ def mail_sent():
     msg.attach(MIMEText(body, 'plain'))
 
     filename = "encrypted_file.txt"
-    attachment = open('C:\\Users\\DELL\\Desktop\\encrypted_file.txt', 'rb')
+    attachment = open(' ', 'rb')
 
     part = MIMEBase('application', 'octet-stream')
     part.set_payload((attachment).read())

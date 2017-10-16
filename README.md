@@ -1,4 +1,14 @@
 # Secret-Messenger
+A computer application to send and receive messages with encryption so that it can't be spied by any stranger during transmission media over internet. 
 
-We have developed a computer application to send and receive messages with encryption so that it can't be spied by any stranger during transmission media over internet, because we are using a key to encrypt it which is only known to the sender and the receiver. This project will help us to avoid cyber threats to some extent. However, this project have some drawbacks, as anything can't be perfect. We have used gmail server to transfer messages from one person to another person through the internet, we'll try to expand it to other mailing servers in future. This project should be available on both the sender's and receiver's desktop for the transmission of message. However, it is not that much fast and effective as compared to other messengers available out there, but here our focus is security rather than social networking. Hence, it can be used for sending a confidential message to someone which you don't want that any third person can comprehend. It can't be used for chatting puposes, because this project is not effective for chatting where you want to send several messages in few minutes. We'll try our best to improve and add new features in our project in coming future. 
+Supported in Python 3.6
+
+# Features
+A key is used to encrypt it which is only known to the sender and the receiver. 
+
+# Sample Run
+1. Download ZIP file for the repository/Clone the repository. Open the .py file in IDLE.
+2. Make a file encrypted_file.txt. Paste its path within '' in the function named open on line 42.
+3. Save and Run it.
+
 

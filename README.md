@@ -5,6 +5,8 @@ Supported in Python 3.6
 
 # Features
 A key is used to encrypt it which is only known to the sender and the receiver. 
+The code is written in Python language which makes it easy to understand and implement.
+Tkinter module is used to make the interface.
 
 # Sample Run
 1. Download ZIP file for the repository/Clone the repository. Open the .py file in IDLE.

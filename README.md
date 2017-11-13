@@ -1,5 +1,5 @@
 # Secret-Messenger
-A computer application to send and receive messages with encryption so that it can't be spied by any stranger during transmission media over internet. 
+A computer application to send and receive messages with cipher encryption so that it can't be spied by any stranger during transmission media over internet. 
 
 Supported in Python 3.6
 
